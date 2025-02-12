@@ -1,40 +1,50 @@
-<h1>Hi, I'm Charles! <br/><a href="https://github.com/Charles-Roro">Solutions Architect </a>, <a href="https://www.linkedin.com/in/charles-manning-127379303">Cybersecurity Professional</a> </h1>
+# Hi, I'm Charles!  
+## 🚀 Solutions Architect | Cybersecurity Professional  
 
-<h2>👨‍💻 Solutions Architect and Security Projects:</h2>
+---
 
-- <b>A Multi-region Solution for a Gaming company using Google Cloud Platform and IaC Terraform</b>
-      [Using GCP services to create a secure solution for a gaming company](https://github.com/Charles-Roro/Charles-GCP-Terraform.git)
-  
-- <b>Creating a public website on a VM in Google Cloud Platform using IaC Terraform</b>
-      [Version controlled code for scalibility](https://github.com/Charles-Roro/Charles-Terraform-GCP-VM-website.git)
+## 🎓 Certifications  
+- **Google Cloud Professional Cloud Architect (PCA)** ✅  
+- **AWS Solutions Architect Associate** *(In Progress)*  
+- **Microsoft Azure Solutions Architect Expert** *(In Progress)*  
+- **Terraform Associate (003)** *(In Progress)*  
+- **CISSP** *(In Progress)*  
 
- - <b>Cloud storage static webpage in Google Cloud Platform using IaC Terraform</b>
-     [Static webpage code](https://github.com/Charles-Roro/Charles-GCP-Terraform-Pub-Bucket.git)
-   
- - <b>Creating an Unmanaged Instance group with a Load Balancer and setting up Cloud Armor Rules for DDos prevention</b>
-      [Cloud Armor Setup](https://github.com/Charles-Roro/GCPCloudArmor.git)
+---
+
+## 🔧 Solutions Architect & Security Projects
+
+### ☁️ **Cloud Infrastructure & Architecture**
+- **🔹 Multi-region Solution for a Gaming Company**  
+  _Using Google Cloud Platform and IaC Terraform_ → [Using GCP services to create a secure solution for a gaming company](https://github.com/Charles-Roro/Charles-GCP-Terraform.git)  
+- **🔹 Creating a Public Website on a VM in Google Cloud Platform**  
+  _Version-controlled code for scalability using Terraform_ → [Version controlled code for scalability](https://github.com/Charles-Roro/Charles-Terraform-GCP-VM-website.git)  
+- **🔹 Cloud Storage Static Webpage in Google Cloud Platform**  
+  _Using Terraform to automate static webpage deployment_ → [Static webpage code](https://github.com/Charles-Roro/Charles-GCP-Terraform-Pub-Bucket.git)  
+
+---
+
+### 🛡️ **Security & Threat Detection**
+- **🛑 Unmanaged Instance Group with Cloud Armor Rules**  
+  _DDoS protection with a Load Balancer on GCP_ → [Cloud Armor Setup](https://github.com/Charles-Roro/GCPCloudArmor.git)  
+- **🎭 Azure Honeypot Deployment**  
+  _Setting up a deception system using Microsoft Azure_ → [Azure Honeypot](https://github.com/Charles-Roro/ManningAzureHoneypot.git)  
+- **📊 Multi-Cloud Fake App (Website) for Wazuh Monitoring**  
+  _Using Terraform, Snyk, Ansible, Nmap, and Wazuh for security insights_ → [Using Terraform, Snyk, Ansible, Nmap, and Wazuh](https://github.com/Charles-Roro/Honeyapp.git)  
+
+---
+
+### 🔄 **CI/CD & DevSecOps**
+- **🔁 CI/CD Pipeline with AWS & Docker**  
+  _Integrating Terraform with Snyk, SonarQube, and Jenkins for security scanning_ → [Using Terraform along with Snyk, SonarQube, and Jenkins to check code for bugs and vulnerabilities](https://github.com/Charles-Roro/CI-CD-AWS-pipeline.git)  
+
+---
+
+## 📌 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charles-manning-127379303)  
 
 
-- <b>Utilizing Microsoft Azure to create a Honeypot</b>
-      [Azure Honeypot](https://github.com/Charles-Roro/ManningAzureHoneypot.git)
+---
 
-
-- <b>Utilizing AWS and Docker Desktop to create a CI/CD pipeline</b>
-      [Using Terraform along with Snyk, SonarQube, and Jenkins to check code for bugs and vulnerabilities.](https://github.com/Charles-Roro/CI-CD-AWS-pipeline.git)
-
-- <b>Making a Multi-Cloud Fake App(Website) to monitor with Wazuh</b>
-      [Using Terraform,Snyk, Ansible, Nmap, and Wazuh.](https://github.com/Charles-Roro/Honeyapp.git)
-
-
-
-
-
-
-<h2> 🤳 Connect with me:
-
-[linkedin]: (https://www.linkedin.com/in/charles-manning-127379303) </h2>
-
-
-
-- 🌱 I’m currently learning: Amazon Web Services(AWS): Solutions Architect Associate, Microsoft Azure: Azure Solutions Architect Expert, and Terraform Associate (003)
-- ⚡ Fun fact: MMO enjoyer GW2!
+### ⚡ Fun Fact:
+- MMO Enjoyer 🎮 (Big fan of **GW2!**)  
